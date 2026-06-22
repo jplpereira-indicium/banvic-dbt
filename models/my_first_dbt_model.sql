@@ -9,6 +9,9 @@
 
 {{ config(materialized='table') }}
 
+
+-- alterando
+
 with source_data as (
 
     select 1 as id
