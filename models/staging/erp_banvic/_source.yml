@@ -7,5 +7,7 @@ sources:
         description: Tabela fonte com as informações das agências da Banvic.
       - name: clientes
         description: Tabela fonte com as informações pessoais de cada cliente da Banvic.
+      - name: colaboradores
+        description: Tabela fonte com as informações pessoais de cada colaborador da Banvic.
       - name: localidades
         description: Tabela fonte de localidades com a informação de cidade e estado.
